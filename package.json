@@ -1,0 +1,25 @@
+{
+  "name": "lab22022",
+  "version": "1.0.0",
+  "description": "sadasdasdasdasd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDQuintero/lab22022.git"
+  },
+  "keywords": [
+    "lab2"
+  ],
+  "author": "JuanDQuintero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDQuintero/lab22022/issues"
+  },
+  "homepage": "https://github.com/JuanDQuintero/lab22022#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
